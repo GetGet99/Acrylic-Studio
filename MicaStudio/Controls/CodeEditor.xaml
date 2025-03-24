@@ -19,6 +19,6 @@
 
         </Grid>
         <MenuFlyoutSeparator Grid.Row="1"/>
-        <editor:CodeEditorControl x:Name="ScintillaEditor" Grid.Row="2" FontFamily="arial"/>
+        <editor:CodeEditorControl x:Name="ScintillaEditor" Grid.Row="2"/>
     </Grid>
 </UserControl>
